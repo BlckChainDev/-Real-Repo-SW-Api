@@ -1,23 +1,33 @@
 {
     "Star_Wars": {
-        "Humans": [
+        "Mandalorian": [
             {
-                "id": 1,
-                "name": "Luke Skywalker",
-                "Home_World": "Tatooine",
-                "Birth": -19,
-                "species": "Human",
-                "Cyber_Netics": "Prosthetic Right Hand",
+                "Id": 1,
+                "Name": "The Mandalorian",
+                "Wiki": "https://starwars.fandom.com/wiki/Din_Djarin",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/8/8a/DinDjarinSansHelmet-TMCh16.png/revision/latest/scale-to-width-down/500?cb=20201221013823",
+                "Born": "19 BBY",
                 "Body": {
-                    "Height": "1.72",
-                    "Mass": 73,
                     "Gender": "Male",
-                    "Hair_Color": "Blond",
-                    "Eye_Color": "Blue",
-                    "Skin_Color": "Light"
+                    "Hair": "Brown",
+                    "Eye": "Brown",
+                    "Skin": "Tan"
                 },
-                "wiki": "http://starwars.wikia.com/wiki/Luke_Skywalker",
-                "Image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg"
+                "Species": "Human"
+            },
+            {
+                "Id": 2,
+                "Name": "Cara Dune",
+                "Wiki": "https://starwars.fandom.com/wiki/Carasynthia_Dune",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/3/32/CaraDuneS2-EW.png/revision/latest/scale-to-width-down/500?cb=20200909003912",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Female",
+                    "Hair": "Black",
+                    "Eye": "Brown",
+                    "Skin": "Light"
+                },
+                "Species": "Human"
             }
         ]
     }
