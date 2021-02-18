@@ -28,6 +28,48 @@
                     "Skin": "Light"
                 },
                 "Species": "Human"
+            },
+            {
+                "Id": 3,
+                "Name": "Bo-Katan Kryze",
+                "Wiki": "https://starwars.fandom.com/wiki/Bo-Katan_Kryze",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/3/35/BoKatanKryze-AG.png/revision/latest/scale-to-width-down/350?cb=20201117072052",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Female",
+                    "Hair": "Red",
+                    "Eye": "Green",
+                    "Skin": "Light"
+                },
+                "Species": "Human"
+            },
+            {
+                "Id": 4,
+                "Name": "Moff Gideon",
+                "Wiki": "https://starwars.fandom.com/wiki/Gideon",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/3/30/Gideon-AG-Crop-Clean.png/revision/latest/scale-to-width-down/350?cb=20201210074437",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Black",
+                    "Eye": "Dark",
+                    "Skin": "Dark"
+                },
+                "Species": "Human"
+            },
+            {
+                "Id": 5,
+                "Name": "Kuiil",
+                "Wiki": "https://starwars.fandom.com/wiki/Kuiil",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/8/8a/Kuiil_Infobox.png/revision/latest/scale-to-width-down/350?cb=20191030130703",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "White",
+                    "Eye": "Green",
+                    "Skin": "Light"
+                },
+                "Species": "Ugnaught"
             }
         ]
     }
