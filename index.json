@@ -187,7 +187,50 @@
             }
         ],
         "Clone_Wars": [
-
+            {
+                "Id": 1,
+                "Name": "Ahsoka Tano",
+                "Wiki": "https://starwars.fandom.com/wiki/Ahsoka_Tano",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/1/12/AhsokaTano-AG.png/revision/latest/scale-to-width-down/350?cb=20201130235153",
+                "Born": "36 BBY",
+                "Body": {
+                    "Gender": "Female",
+                    "Hair": "White / Grey",
+                    "Eye": "Blue",
+                    "Skin": "Orange"
+                },
+                "Species": "Togruta",
+                "Affilations": [
+                    "Jedi Order",
+                    "Galatic Republic",
+                    "501st Legion",
+                    "Bail Organa's Resistance Movement",
+                    "Rebel Intelligence",
+                    "Pheonix Cell"
+                ]
+            },
+            {
+                "Id": 2,
+                "Name": "Darth Vader",
+                "Wiki": "https://starwars.fandom.com/wiki/Anakin_Skywalker/Legends",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest/scale-to-width-down/500?cb=20130621175844",
+                "Born": "41.9 BBY",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Blond",
+                    "Eye": "Blue",
+                    "Skin": "Fair"
+                },
+                "Species": "Human",
+                "Affilations": [
+                    "Jedi Order",
+                    "Galatic Republic",
+                    "501st Legion",
+                    "Order Of The Sith",
+                    "Galatic Empire",
+                    "Death Squadron"
+                ]
+            } 
         ]
     }
 }
