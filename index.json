@@ -1,5 +1,5 @@
 {
-    "Star_Wars": {
+    "Star_Wars_Shows_Main_Characters": {
         "Mandalorian": [
             {
                 "Id": 1,
@@ -98,7 +98,96 @@
                     "Kuiil's Clan",
                     "Kuiil's Moisture Farm"
                 ]
+            },
+            {
+                "Id": 6,
+                "Name": "Mythrol",
+                "Wiki": "https://starwars.fandom.com/wiki/Mythrol",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/4/44/Mythrol-AG.png/revision/latest/scale-to-width-down/499?cb=20201115022323",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Blue",
+                    "Eye": "Blue",
+                    "Skin": "Blue"
+                },
+                "Species": "Unknown",
+                "Affilations": [
+                    "None"
+                ]
+            },
+            {
+                "Id": 7,
+                "Name": "IG-11",
+                "Wiki": "https://starwars.fandom.com/wiki/IG-11",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/4/48/IG-11_Sideshow.png/revision/latest/scale-to-width-down/240?cb=20200103031615",
+                "Born": "9 ABY",
+                "Body": {
+                    "Gender": "Masculine programming",
+                    "Hair": "None",
+                    "Eye": "Red",
+                    "Skin": "Grey and Bronze"
+                },
+                "Species": "Droid",
+                "Affilations": [
+                    "Bounty Hunter's Guild"
+                ]
+            },
+            {
+                "Id": 8,
+                "Name": "Greef Karga",
+                "Wiki": "https://starwars.fandom.com/wiki/Greef_Karga",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/1/14/Greef-Karga-Mandalorian-S2.jpg/revision/latest/scale-to-width-down/500?cb=20200908164453",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Black",
+                    "Eye": "Brown",
+                    "Skin": "Dark"
+                },
+                "Species": "Human",
+                "Affilations": [
+                    "Bounty Hunter's Guild"
+                ]
+            },
+            {
+                "Id": 9,
+                "Name": "Dr.Pershing",
+                "Wiki": "https://starwars.fandom.com/wiki/Pershing",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/8/81/Pershing.png/revision/latest/scale-to-width-down/500?cb=20191113101144",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Dark",
+                    "Eye": "Dark",
+                    "Skin": "Tan"
+                },
+                "Species": "Human",
+                "Affilations": [
+                    "Gideon's Imperial Remnant"
+                ]
+            },
+            {
+                "Id": 10,
+                "Name": "The Client",
+                "Wiki": "https://starwars.fandom.com/wiki/The_Client",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/c/c7/TheClient-SWCT.png/revision/latest/scale-to-width-down/350?cb=20201121192349",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Grey",
+                    "Eye": "Green",
+                    "Skin": "Light"
+                },
+                "Species": "Human",
+                "Affilations": [
+                    "Galatic Empire",
+                    "Gideon's Imperial Remnant"
+                ]
             }
+        ],
+        "Clone_Wars": [
+
         ]
     }
 }
