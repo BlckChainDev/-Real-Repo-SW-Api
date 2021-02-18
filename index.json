@@ -13,7 +13,12 @@
                     "Eye": "Brown",
                     "Skin": "Tan"
                 },
-                "Species": "Human"
+                "Species": "Human",
+                "Affilations": [
+                    "Mandalorians",
+                    "Children Of The Watch",
+                    "Bounty Hunter's Guild"
+                ]
             },
             {
                 "Id": 2,
@@ -27,7 +32,13 @@
                     "Eye": "Brown",
                     "Skin": "Light"
                 },
-                "Species": "Human"
+                "Species": "Human",
+                "Affilations": [
+                    "Alliance To Restore The Republic",
+                    "Alliance Military",
+                    "New Republic",
+                    "New Republic Force"
+                ]
             },
             {
                 "Id": 3,
@@ -41,7 +52,14 @@
                     "Eye": "Green",
                     "Skin": "Light"
                 },
-                "Species": "Human"
+                "Species": "Human",
+                "Affilations": [
+                    "Death Watch",
+                    "Nite Owls",
+                    "Shadow Collective",
+                    "Mandalore Resistance",
+                    "Mandalorian Resistance"
+                ]
             },
             {
                 "Id": 4,
@@ -55,7 +73,12 @@
                     "Eye": "Dark",
                     "Skin": "Dark"
                 },
-                "Species": "Human"
+                "Species": "Human",
+                "Affilations": [
+                    "Galatic Empire",
+                    "Imperial Security Bureau",
+                    "Gideon's Imperial Remnant"
+                ]
             },
             {
                 "Id": 5,
@@ -69,7 +92,12 @@
                     "Eye": "Green",
                     "Skin": "Light"
                 },
-                "Species": "Ugnaught"
+                "Species": "Ugnaught",
+                "Affilations": [
+                    "Galatic Empire (as slave)",
+                    "Kuiil's Clan",
+                    "Kuiil's Moisture Farm"
+                ]
             }
         ]
     }
