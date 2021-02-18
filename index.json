@@ -230,7 +230,70 @@
                     "Galatic Empire",
                     "Death Squadron"
                 ]
-            } 
+            },
+            {
+                "Id": 3,
+                "Name": "Bo-Katan Kryze",
+                "Wiki": "https://starwars.fandom.com/wiki/Bo-Katan_Kryze",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/3/35/BoKatanKryze-AG.png/revision/latest/scale-to-width-down/350?cb=20201117072052",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Female",
+                    "Hair": "Red",
+                    "Eye": "Green",
+                    "Skin": "Light"
+                },
+                "Species": "Human",
+                "Affilations": [
+                    "Death Watch",
+                    "Nite Owls",
+                    "Shadow Collective",
+                    "Mandalore Resistance",
+                    "Mandalorian Resistance"
+                ]
+            },
+            {
+                "Id": 4,
+                "Name": "Darth Maul",
+                "Wiki": "https://starwars.fandom.com/wiki/Maul",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/8/89/MaulHS_SWI185.png/revision/latest/scale-to-width-down/500?cb=20181108061212",
+                "Born": "Unknown",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "None",
+                    "Eye": "Yellow And Red",
+                    "Skin": "Red"
+                },
+                "Species": "Zabrak",
+                "Affilations": [
+                    "Sith",
+                    "Trade Federation",
+                    "Shadow Collective",
+                    "Death Watch",
+                    "Crimson Dawn"
+                ]
+            },
+            {
+                "Id": 5,
+                "Name": "Boba Fett",
+                "Wiki": "https://starwars.fandom.com/wiki/Boba_Fett",
+                "Image": "https://static.wikia.nocookie.net/starwars/images/2/2c/BobaFett-TMS1C15_HQ.jpg/revision/latest/scale-to-width-down/499?cb=20201218010626",
+                "Born": "32 BBY",
+                "Body": {
+                    "Gender": "Male",
+                    "Hair": "Black",
+                    "Eye": "Brown",
+                    "Skin": "Tan"
+                },
+                "Species": "Human (Clone)",
+                "Affilations": [
+                    "Confederacy of Independent Systems",
+                    "Krayt's Claw",
+                    "Jabba Desilijic Tiure's Criminal Empire",
+                    "Bounty Hunter's Guild",
+                    "Galatic Empire"
+                ]
+            }
         ]
     }
 }
