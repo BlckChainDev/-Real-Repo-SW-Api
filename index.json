@@ -1,0 +1,24 @@
+{
+    "Star_Wars": {
+        "Humans": [
+            {
+                "id": 1,
+                "name": "Luke Skywalker",
+                "Home_World": "Tatooine",
+                "Birth": -19,
+                "species": "Human",
+                "Cyber_Netics": "Prosthetic Right Hand",
+                "Body": {
+                    "Height": "1.72",
+                    "Mass": 73,
+                    "Gender": "Male",
+                    "Hair_Color": "Blond",
+                    "Eye_Color": "Blue",
+                    "Skin_Color": "Light"
+                },
+                "wiki": "http://starwars.wikia.com/wiki/Luke_Skywalker",
+                "Image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg"
+            }
+        ]
+    }
+}
